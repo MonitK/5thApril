@@ -8,3 +8,4 @@ int main()
 	add(a,b);
 	substract(a,b);
 }
+//The functions are to be developed byn team"
